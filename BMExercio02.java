@@ -1,7 +1,5 @@
-import java.util.Scanner;
 public class BMExercio02 {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
         int i = 1;
         System.out.println("" + i); // 1°
 
