@@ -6,6 +6,6 @@ d) =V
 e) =V
 f) =F
 g) =F
-h) =V
+h) =F // se considerar que está faltando o ponto e virgula é False.
 i) =F
 j) =F
