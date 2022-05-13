@@ -15,7 +15,7 @@ public class BMExercio02 {
         boolean b =true;
         System.out.println(""+b); //5°
 
-        String c = "k";
+        char c = "k";
         System.out.println("" + c); //6°
         
         
